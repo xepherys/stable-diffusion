@@ -1,0 +1,2 @@
+prompt,outdir,init_img,skip_grid,skip_save,ddim_steps,ddim_eta,n_iter,H,W,strength,n_samples,n_rows,scale,from_file,seed,device,unet_bs,turbo,precision,format,sampler
+"Beautiful redhead girl in an enchanted forest, cartoon style",outputs/img2img-samples,D:\Storage\Pictures\Peep\23435089_10155675384084985_6583943096514998767_n.jpg,False,False,50,0.0,2,512,512,0.8,10,0,7.5,,741438,cuda,1,False,autocast,png,ddim
