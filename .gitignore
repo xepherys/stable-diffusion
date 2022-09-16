@@ -1,5 +1,10 @@
+# .gitignore for stable-diffusion-x repository
+
+# Folder to ignore
 ./outputs
-*.ckpt
 ./logs
 ./dreams
+
+# Files to ignore
+*.ckpt
 *.bak
